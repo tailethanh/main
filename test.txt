@@ -1,6 +1,1 @@
-this is main branch
-change in new main brach
-change in slave brach
-change again in main branch (check conflict on slave branch)
-insert new line in slave
-new test
+dm may

@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-slave 2 n
-=======
-slave 2
-change by web
->>>>>>> 1e6348060f2c608e42e8ad80a94e65effd57c52d
+aaaa

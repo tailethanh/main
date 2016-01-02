@@ -2,4 +2,5 @@ loz ma may
 loz may 2
 e su hunh
 dm conflict
+remote
 local

@@ -1,7 +1,7 @@
 loz ma may
 loz may 2
 e su hunh
-dm conflict
+dm conflict local
 remote
 local
 tao thay doi remote

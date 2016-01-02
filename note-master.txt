@@ -1,2 +1,3 @@
 note master
 new
+remote 1

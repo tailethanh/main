@@ -7,3 +7,6 @@ new
 remote
 asdfvbn
 I change in local, above is remote change
+remote
+I change in local, above is remote change
+

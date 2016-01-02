@@ -6,4 +6,3 @@ local 3
 remote 4
 reomte 5
 local 6
-local 7

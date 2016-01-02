@@ -4,3 +4,4 @@ change in slave brach
 change again in main branch (check conflict on slave branch)
 insert new line in slave
 remote 1
+remote 2

@@ -1,1 +1,2 @@
 con ga mai
+change in master, check pull merge from slave 2

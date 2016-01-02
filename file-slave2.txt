@@ -12,4 +12,3 @@ remote 4 remote 5
 local
 reomte 6
 remote 7
-local 9

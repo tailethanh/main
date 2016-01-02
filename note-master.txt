@@ -1,3 +1,4 @@
 note master
 new
 remote 1
+local 2

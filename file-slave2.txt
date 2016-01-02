@@ -7,4 +7,3 @@ local
 tao thay doi remote
 sdf
 remote 2
-local

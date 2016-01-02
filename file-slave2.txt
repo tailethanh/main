@@ -6,3 +6,4 @@ remote
 local
 tao thay doi remote
 sdf
+remote 2

@@ -1,1 +1,1 @@
-slave 2
+slave 2 abc

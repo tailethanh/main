@@ -5,5 +5,3 @@ dm conflict
 remote
 local
 tao thay doi remote
-tao thay doi remote
-tao thay doi remote

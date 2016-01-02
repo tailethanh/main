@@ -4,3 +4,4 @@ e su hunh
 dm conflict
 remote
 local
+tao thay doi remote

@@ -7,3 +7,4 @@ remote 1
 remote 2
 remote 3
 asdh
+local 4

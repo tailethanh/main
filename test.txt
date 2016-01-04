@@ -1,9 +1,8 @@
-this is main branch
-change in new main brach
-change in slave brach
-change again in main branch (check conflict on slave branch)
-insert new line in slave
+con ga mai
+change in master, check pull merge from slave 2
+#change by remote
 remote 1
+<<<<<<< HEAD
 remote 2
 remote 3
 asdh
@@ -13,3 +12,5 @@ remote 6
 remote 7
 local 8
 remote 9
+=======
+>>>>>>> master
